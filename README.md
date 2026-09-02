@@ -7,8 +7,8 @@ My journey learning ** HTML, CSS, and JavaScript ** from fundamentals to real-wo
 ### HTML
 - [x] HTML Fundamentals
 - [x] Semantic HTML
-- [ ] Forms & Inputs
-- [ ] Accessibility Basics
+- [x] Forms & Inputs
+- [x] Accessibility Basics
 
 ### CSS
 - [ ] CSS Fundamentals
