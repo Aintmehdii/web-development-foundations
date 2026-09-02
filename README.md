@@ -1,6 +1,6 @@
 # Web Development Foundations
 
-My journey learning **HTML, CSS, and JavaScript ** from fundamentals to real-world projects.
+My journey learning ** HTML, CSS, and JavaScript ** from fundamentals to real-world projects.
 
 ## 📚 Learning Roadmap
 
